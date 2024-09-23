@@ -1,0 +1,22 @@
+{
+  "name": "section-18---forkify-app---building-a-modern-application",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Henrique Lordêlo",
+  "license": "ISC",
+  "description": "Recipe application",
+  "devDependencies": {
+    "@parcel/transformer-inline-string": "^2.12.0",
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "core-js": "^3.38.1",
+    "fractional": "^1.0.0",
+    "i": "^0.3.7",
+    "regenerator-runtime": "^0.14.1"
+  }
+}
